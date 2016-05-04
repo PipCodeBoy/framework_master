@@ -1,0 +1,138 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-color: #DDD;
+	font-family: "Arial",Sans-serif;
+}
+header{
+	background-color: #DCD;
+    margin-top: 3.6em;
+}
+
+img{
+    width: 80%;
+    height: auto;
+}
+
+footer{
+    text-align: center;
+    background-color: rebeccapurple;
+    position: fixed !important;
+    width: 100% !important;
+    margin-top: 2em;
+    bottom: 0px !important;
+}
+
+footer h5{
+    margin-bottom: 0 !important;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    margin-top: 0 !important;
+}
+
+th{
+    text-align: center !important;
+}
+
+label{
+    display: inline-block !important;
+    width: 100% !important;
+    max-width: 84px !important;
+    margin-bottom: 5px !important;
+    font-weight: 700 !important;
+}
+
+
+.container{
+	display: block;
+	background-color: white;
+	height:auto !important;
+    text-align: center;
+    width: 98% !important;
+}
+
+#show{
+    margin-bottom: 4em;
+}
+
+#box{
+	border:2px solid red;
+    width: 15em;
+    height: auto;
+    z-index: 999;
+    text-align: center;
+    display: none;
+    margin:0 auto;
+}
+
+#createaddbox{
+    text-align: center;
+    width: 100%;
+}
+
+.menu{
+    width: 100%;
+    text-align: center;
+
+}
+
+.menu ul li{
+    display: inline-block;
+    width: 7em;
+}
+
+.article{
+    background-color: #FAEBD7;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 4em;
+    margin-right: 2em;
+    -webkit-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+}
+
+#showedit{
+    margin-bottom: 4em;
+}
+
+.form-control{
+    width: 100% !important;
+    max-width: 20%;
+    display: inline-block !important;
+}
+
+#bigmenu{
+    position: fixed;
+    margin-bottom: 0;
+}
+
+.fa{
+    font-size: 30px !important;
+    text-align: right;
+    margin: 10px;
+}
+
+.fa-thumbs-up{
+    color: green;
+}
+
+.fa-thumbs-down{
+    color: red;
+}
+
+.map{
+    width: 500px;
+    height: 400px;
+    margin:10px auto;
+}

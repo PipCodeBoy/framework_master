@@ -1,0 +1,18 @@
+/vendor
+/node_modules
+.env
+/public/files
+.DS_Store
+Anuncio.png
+DelAnuncio.png
+Diagrama1.dia
+Diagrama1.png
+Diagrama2.png
+Diagrama3.png
+Diagrama4.png
+diagramamain.dia
+diaregistro.png
+EditUser.png
+Planificacion Framework.docx
+votar.png
+sftp-config.json
